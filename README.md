@@ -8,6 +8,7 @@ It has solutions in terms of
 * **vRetain**
 
 A client's testimonial,
-> Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.
->  - Ferris Finkelstein
+> Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.  
+>  **-Ferris Finkelstein**  
+> _Founder and CEO Dorknozzle_
 
